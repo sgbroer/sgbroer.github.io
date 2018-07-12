@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Codename: Project Benson
+title: Codename - Project Benson
 ---
 ### Challenge
 For the culminating project of week one for the Metis SF Summer 2018 Data Science cohort, the unstoppable 3-man data science machine consisting of classmates AJ Davis, Pablo Nieto Ramos, and myself were commissioned by the completely fictional yet nonetheless estimable organization Women Tech Women Yes to help promote their upcoming annual summer gala. Their declared strategy was to send volunteers to canvas MTA subway stations in their home city of New York, signing up passersby to attend the free gala and ideally donate to the cause.
