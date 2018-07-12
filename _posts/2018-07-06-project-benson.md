@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Codename Benson
+title: Codename - Project Benson
 ---
 
 ### Challenge
