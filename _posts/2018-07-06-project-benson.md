@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Codename - Project Benson
+title: Metis Project 1 -- NYC Subway Data EDA
 ---
 
 ### Challenge
@@ -38,14 +38,14 @@ After considering the specifics of cause and consulting the [literature](https:/
 Then, our target demographic well-targeted, we naturally proceeded to
 
 ### Order of Business No. 1
-Knowing where all the well-payed tech industry women are more likely to be around is all well in good, but ultimately this compaign is about getting the _word_ out to the **PEOPLE**. So where + when are the most of said people passing through NYC subway stations? Luckily, the MTA (for some reason) keeps public weekly logs of turnstyle counters for every turnstile in every station, which we were happy to raid for information on the three weeks leading up to the gala for the past 3 years. Less luckily, there's some funky stuff going on with those numbers, but again luckily here we were a crack 3 man team of _DATA SCIENTISTS_ (in training) ready to get all _SCIENCE_ up on some _DATA_, which we totally did. 
+Knowing where all the well-payed tech industry women are more likely to be around is all well in good, but ultimately this compaign is about getting the _word_ out to the **PEOPLE**. So where + when are the most of said people passing through NYC subway stations? Luckily, the MTA (for some reason) keeps public weekly logs of turnstyle counters for every turnstile in every station, which we were happy to raid for information on the three weeks leading up to the gala for the past 3 years. Less luckily, there's some funky stuff going on with those numbers, but again luckily here we were a crack 3 man team of _DATA SCIENTISTS_ ready to get all _SCIENCE_ up on some _DATA_, which we totally did. 
 ![It was basically just like that one scene in The Matrix Reloaded starring Pablo as Neo and DATA as all those Agent Smiths](https://github.com/sgbroer/sgbroer.github.io/blob/master/public/all_station_foot_traffic.png "Check Out All This DATA We SCIENCED")
 
-Breaking the data into morning and afternoon chunks for each day of the week allowed to identify individual shifts for WTWY volunteers and rank them by how many people a volunteer at a given station for a given time would expect to see.  Which led us to our
+Breaking the data into morning and afternoon chunks for each day of the week allowed us to identify individual shifts for WTWY volunteers and rank them by how many people a volunteer at a given station for a given time would expect to see. Which led us to our
 
 ### Analysis
 Though swimming in pools of relevant information, we still needed to come up with an actual recommendation to provide for the luminaries at WTWY and prove our worth. So we implemented an INCREDIBLY COMPLEX (not really) and TOTALLY ARBITRARY (yes really) weighted algorithm to score shifts based on our vast hoard of data.
-![Don't even think about asking it where you two should go out to dinner, it is tired of _always_ being the one who has to decide where you go out to dinner!](https://github.com/sgbroer/sgbroer.github.io/blob/master/public/Weird-machine.jpg 'Behold! The DECIDINATOR')
+![Behold! The DECIDINATOR](https://github.com/sgbroer/sgbroer.github.io/blob/master/public/Weird-machine.jpg 'Don't even think about asking it where you two should go out to dinner, it is so tired of _always_ being the one who has to decide where you go out to dinner!')
 
 With all these powers combined, we were able to provide 
 
@@ -55,22 +55,9 @@ Above are listed the 10 shifts Women Tech Women Yes should **ABSOLUTELY** cover 
 * Further refinement of data cleaning techniques and additional data sources for ENHANCED RECOMMENDATION POWER
 * Remember that arbitrary decision function? We want YOUR input to tailor it to YOUR needs!
 * Ever use a web portal? Of course you have! Aren't they fun? We'll make one for you! For all your future gala needs!
-* If you're lucky, Pablo will whistle you a jaunty tune, AJ will gift you mustache hair of incommensurate value, and Sam will take credit for work he didn't do! Definitely just kidding about that last part though, just to be clear. Did I ruin it? I ruined it. My bad.
+* If you're lucky, Pablo will whistle you a jaunty tune, AJ will gift you mustache hair of incommensurate value, and Sam will take credit for work he didn't do! Definitely just kidding about that last part though.
 
 ### Conclusion
-Women Tech Women Yes has a vision. It is a vision that encapsulates some of the greatest qualities of our great nation: Liberty, Equality, Ingenuity. Take these sturdy wings of this great vision, and soar on the buffeting winds of change and passion! With the help of our Data Science Compass(tm) services, you can chase down and capture that horizon, feel it wriggle in your bare hands, and bask in the glory of your victory.
+Women Tech Women Yes has a vision. It is a vision that encapsulates some of the greatest qualities of our great nation: Liberty, Equality, Ingenuity. Take the sturdy wings of this great vision, and soar on the buffeting winds of change and passion! With the help of our Data Science Compass(tm) services, you can chase down and capture that horizon, feel it wriggle in your bare hands, and bask in the glory of your victory.
 
 Thank you for reading.
-
-### Recommendation
-Thought we already covered this part, but here we are.
-
-Good Night, and Good Luck
-
-No dang that one's been done before
-
-How about...
-
-SciEncE YA DATA!
-
-Perfect.
