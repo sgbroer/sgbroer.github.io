@@ -33,25 +33,33 @@ Starting with
 Because.
 
 After considering the specifics of cause and consulting the [literature](https://repository.upenn.edu/wharton_research_scholars/126/), we wanted to pursue those commuters who fit the profile of the with high-income female tech professional. As proxies for each of these attributes we drew data from [Zillow](https://www.zillow.com/new-york-ny/) on housing-prices to account for income, a [Department of Youth and Community Development survey](https://data.cityofnewyork.us/City-Government/Demographic-Statistics-By-Zip-Code/kku6-nxdu) which included gender information by zip code, and The [2016 NYC Tech Ecosystem Report](http://abny.org/images/downloads/2016_nyc_tech_ecosystem_10.17.2017_final_.pdf) on tech density in the city.
-![Whatever, San Francisco still has more]({{ site.url }}/public/tech_density_nyc.png "Check Out All This Tech We Got Up In Here")
+
+
+![Tech Clusters]({{ site.url }}/public/tech_density_nyc.png "Whatever, San Francisco still has more")
+
 
 Then, our target demographic well-targeted, we naturally proceeded to
 
 ### Order of Business No. 1
 Knowing where all the well-payed tech industry women are more likely to be around is all well in good, but ultimately this compaign is about getting the _word_ out to the **PEOPLE**. So where + when are the most of said people passing through NYC subway stations? Luckily, the MTA (for some reason) keeps public weekly logs of turnstyle counters for every turnstile in every station, which we were happy to raid for information on the three weeks leading up to the gala for the past 3 years. Less luckily, there's some funky stuff going on with those numbers, but again luckily here we were a crack 3 man team of _DATA SCIENTISTS_ ready to get all _SCIENCE_ up on some _DATA_, which we totally did. 
 
-![It was basically just like that one scene in The Matrix Reloaded starring Pablo as Neo and DATA as all those Agent Smiths]({{ site.url }}/public/all_station_foot_traffic.png "Check Out All This DATA We SCIENCED")
+
+![Foot_Traffic]({{ site.url }}/public/all_station_foot_traffic.png "It was basically just like that one scene in The Matrix Reloaded starring Pablo as Neo and DATA as all those Agent Smiths")
+
 
 Breaking the data into morning and afternoon chunks for each day of the week allowed us to identify individual shifts for WTWY volunteers and rank them by how many people a volunteer at a given station for a given time would expect to see. Which led us to our
 
 ### Analysis
 Though swimming in pools of relevant information, we still needed to come up with an actual recommendation to provide for the luminaries at WTWY and prove our worth. So we implemented an INCREDIBLY COMPLEX (not really) and TOTALLY ARBITRARY (yes really) weighted algorithm to score shifts based on our vast hoard of data.
+
+
 ![Behold! The DECIDINATOR]({{ site.url }}/public/Weird-machine.jpg 'Don't even think about asking it where you two should go out to dinner, it is so tired of _always_ being the one who has to decide where you go out to dinner!')
+
 
 With all these powers combined, we were able to provide 
 
 ### Results
-![TOP 10 ABSOLUTE BEST MTA STATIONS TO PROMOTE WTWY! YOU WON'T BELIEVE NUMBER 7]({{ site.url }}/public/table.png 'Expecting less-than-funny alt-text? Too bad! Life is full of dissapointments. At least that's what my Dad always said on my Birthday')
+![recommendation table]({{ site.url }}/public/table.png 'TOP 10 ABSOLUTE BEST MTA STATIONS TO PROMOTE WTWY! YOU WON'T BELIEVE NUMBER 7')
 Above are listed the 10 shifts Women Tech Women Yes should **ABSOLUTELY** cover with volunteers in the weeks leading up to the gala. Want to see more? For the low low monthly subscription fee of $199.99, WTWY can access ALL the recommendations and ALL the expertise of renowned 3-man data science machine Davis, Nieto Ramos, and Broer, Attorney's at Law. Activate your account today and receive all the following empty promises at NO EXTRA CHARGE!
 * Further refinement of data cleaning techniques and additional data sources for ENHANCED RECOMMENDATION POWER
 * Remember that arbitrary decision function? We want YOUR input to tailor it to YOUR needs!
