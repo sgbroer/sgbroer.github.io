@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Metis Project 1 -- NYC Subway Data EDA
+title: Metis Project 1: MTA Data Analysis
 ---
 
 ### Challenge
