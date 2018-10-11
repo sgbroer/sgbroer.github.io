@@ -50,7 +50,7 @@ Though swimming in pools of relevant information, we still needed to come up wit
 With all these powers combined, we were able to provide 
 
 ### Results
-![Expecting less-than-funny alt-text? Too bad! Life is full of dissapointments. At least that's what my Dad always said on my Birthday](image_link 'TOP 10 ABSOLUTE BEST MTA STATIONS TO PROMOTE WTWY! YOU WON'T BELIEVE NUMBER 7')
+![TOP 10 ABSOLUTE BEST MTA STATIONS TO PROMOTE WTWY! YOU WON'T BELIEVE NUMBER 7](image_link 'Expecting less-than-funny alt-text? Too bad! Life is full of dissapointments. At least that's what my Dad always said on my Birthday')
 Above are listed the 10 shifts Women Tech Women Yes should **ABSOLUTELY** cover with volunteers in the weeks leading up to the gala. Want to see more? For the low low monthly subscription fee of $199.99, WTWY can access ALL the recommendations and ALL the expertise of renowned 3-man data science machine Davis, Nieto Ramos, and Broer, Attorney's at Law. Activate your account today and receive all the following empty promises at NO EXTRA CHARGE!
 * Further refinement of data cleaning techniques and additional data sources for ENHANCED RECOMMENDATION POWER
 * Remember that arbitrary decision function? We want YOUR input to tailor it to YOUR needs!
