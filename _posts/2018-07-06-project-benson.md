@@ -53,7 +53,7 @@ Breaking the data into morning and afternoon chunks for each day of the week all
 Though swimming in pools of relevant information, we still needed to come up with an actual recommendation to provide for the luminaries at WTWY and prove our worth. So we implemented an INCREDIBLY COMPLEX (not really) and TOTALLY ARBITRARY (yes really) weighted algorithm to score shifts based on our vast hoard of data.
 
 
-![Behold! The DECIDINATOR]({{ site.url }}/public/Weird-machine.jpg 'Don't even think about asking it where you two should go out to dinner, it is so tired of _always_ being the one who has to decide where you go out to dinner!')
+![what even is this thing?]({{ site.url }}/public/Weird-machine.jpg 'Behold! The DECIDINATOR')
 
 
 With all these powers combined, we were able to provide 
